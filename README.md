@@ -19,3 +19,7 @@
 ### Console
  - Open / close console: `TAB`
  - Execute command: `ENTER`
+
+### PDF Presentation about the project
+
+[Project_2_2_Presentation.pdf](https://github.com/Dexter192/Multi-Agent-Surveillance/blob/master/Project_2_2_Presentation.pdf)
